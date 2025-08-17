@@ -1,5 +1,7 @@
 
 # The project is renamed to mouse2joystick_Advanced_Settings and add new features
+
+For Chinese translation, see [README.zh-CN.md](README.zh-CN.md).
 ## Version 1.0.0.0
  * You can specify a key combination of up to two keys to simulate a joy button.
  * You can specify multiple keys or key combinations to simulate the same joy button.
